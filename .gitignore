@@ -1,0 +1,11 @@
+.env
+logs/
+working_data/
+__pycache__/
+*.pyc
+dags/model/
+
+!docker-compose.yaml
+
+!/evidence/verification_*_training_report.json
+!/evidence/verification_*_prediction_summary.json

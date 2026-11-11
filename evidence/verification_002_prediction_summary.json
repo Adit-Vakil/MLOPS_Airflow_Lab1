@@ -1,0 +1,11 @@
+{
+  "run_id": "verification_002",
+  "selected_k": 3,
+  "prediction_rows": 114,
+  "cluster_counts": {
+    "0": 73,
+    "1": 27,
+    "2": 14
+  },
+  "artifact_folder": "working_data/d7609998dfb1101c88d06da8a29991aa0ee274a50bc2e59563e3f7889450436d"
+}
